@@ -6,7 +6,7 @@
 
  <div>
   <a href="https://github.com/dev-matheusmuniz">
-  <img height="auto" src="https://github-readme-stats.vercel.app/api?username=dev-matheusmuniz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="auto" src="https://github-readme-stats.vercel.app/api?username=i-am-matheus-muniz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-matheusmuniz&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
@@ -23,5 +23,5 @@
  
  <div>
   <a href="https://www.linkedin.com/in/matheus-muniz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:dev.mmuniz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:i.am.matheus.muniz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
