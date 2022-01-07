@@ -5,9 +5,9 @@
 ##
 
  <div>
-  <a href="https://github.com/dev-matheusmuniz">
+  <a href="https://github.com/i-am-matheus-muniz">
   <img height="auto" src="https://github-readme-stats.vercel.app/api?username=i-am-matheus-muniz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-matheusmuniz&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-matheus-muniz&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
  ##
