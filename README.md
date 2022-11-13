@@ -1,6 +1,6 @@
 ## </Hello, world!> 💻
 - </I am Matheus Muniz> 🙋🏻‍♂️
-- </System Assistant at Liebherr BR> 🏢
+- </System Analyst Jr. at Liebherr Brasil> 🏢
 
 ##
 
