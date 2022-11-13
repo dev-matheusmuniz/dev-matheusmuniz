@@ -1,5 +1,5 @@
 ## </Hello, world!> 💻
-- </I am Matheus Muniz> 🙋🏻‍♂️
+- </I am Matheus Muniz> 👨🏻‍💻
 - </System Analyst Jr. at Liebherr Brasil> 🏢
 
 ##
