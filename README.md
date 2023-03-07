@@ -1,27 +1,9 @@
-## </Hello, world!> 💻
-- </I am Matheus Muniz> 👨🏻‍💻
-- </System Analyst Jr. at Liebherr Brasil> 🏢
+# 👨🏻‍💻 About Me:
+Hey, welcome to my github profile! My name is Matheus Muniz, pleased to have you here.<br><br>I've just started my freelancing carreer as a Creative Frontend Developer & UI Designer, you can look for my portfolio at muniv.com.br
 
-##
 
- <div>
-  <a href="https://github.com/i-am-matheus-muniz">
-  <img height="auto" src="https://github-readme-stats.vercel.app/api?username=i-am-matheus-muniz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-matheus-muniz&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+# 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/matheusmuniz16) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i.am.matheus.muniz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-muniz) 
 
- ##
- 
- <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-</div>
- 
- ##
- 
- <div>
-  <a href="https://www.linkedin.com/in/matheus-muniz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:i.am.matheus.muniz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </div>
+# 🔥 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=flat&logo=greensock&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
