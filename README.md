@@ -1,5 +1,5 @@
 # 👨🏻‍💻 About Me:
-Hey, welcome to my github profile! My name is Matheus Muniz, pleased to have you here.<br><br>I've just started my freelancing carreer as a Creative Frontend Developer & UI Designer, you can look for my portfolio at muniv.com.br
+Hey, welcome to my github profile! My name is Matheus Muniz, pleased to have you here.<br><br>I've just started my freelancing carreer as a Creative Fullstack with emphasis in Frontend Development & UI Designer, you can look for my portfolio at muniv.com.br
 
 
 # 🌐 Socials:
