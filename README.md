@@ -1,7 +1,16 @@
 <img src="images/Matheus.png">
 <hr>
 
+<h3 align="center">👨🏻‍💻  About Me</h3>
 
+###
+
+<p align="center">I am a <strong>Creative Fullstack developer</strong> with emphasis in <strong>Frontend & UI Design</strong>. Also, graduate in <strong>Software Engineering at PUC Minas</strong>.<br><br>- 🔭 I’m working as System Analyst PL at Liebherr Brasil.<br>- 📚 I'm currently learning CSS.<br>- ⚡ Always moving forward!</p>
+
+###
+
+
+<hr>
 <h3 align="center">You can find me at</h3>
 
 
@@ -26,24 +35,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
-<hr>
-<h4 align="center">Visitors</h4>
 
-###
-<div align="center">
-  <img src="https://profile-counter.glitch.me/i-am-matheus-muniz/count.svg?"  />
-</div>
-
-###
-<hr>
-
-<h3 align="center">👨🏻‍💻  About Me</h3>
-
-###
-
-<p align="center">I am a <strong>Creative Fullstack developer</strong> with emphasis in <strong>Frontend & UI Design</strong>. Also, graduate in <strong>Software Engineering at PUC Minas</strong>.<br><br>- 🔭 I’m working as System Analyst PL at Liebherr Brasil.<br>- 📚 I'm currently learning CSS.<br>- ⚡ Always moving forward!</p>
-
-###
 <hr>
 <h3 align="center">🛠 Language and tools</h3>
 
@@ -70,3 +62,10 @@
 </div>
 
 ###
+<hr>
+<h4 align="center">Visitors</h4>
+
+###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/i-am-matheus-muniz/count.svg?"  />
+</div>
