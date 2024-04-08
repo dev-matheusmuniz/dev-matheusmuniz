@@ -5,7 +5,7 @@
 
 ###
 
-<p align="center">I am a <strong>Creative Fullstack developer</strong> with emphasis in <strong>Frontend & UI Design</strong>. Also, graduate in <strong>Software Engineering at PUC Minas</strong>.<br><br>- 🔭 I’m working as System Analyst PL at Liebherr Brasil.<br>- 📚 I'm currently learning JavaScript.<br>- ⚡ Always moving forward!</p>
+<p align="center">I am a <strong>Creative Fullstack developer</strong> with emphasis in <strong>Frontend & UI Design</strong>. Also, graduate in <strong>Software Engineering at PUC Minas</strong>.<br><br>- 🔭 I’m working as System Analyst PL at Liebherr Brasil.<br>- 📚 I'm currently improving my JavaScript knowledge (and learning React).<br>- ⚡ Always moving forward!</p>
 
 ###
 
