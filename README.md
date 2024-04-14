@@ -5,7 +5,7 @@
 
 ###
 
-<p align="center">I am a <strong>Creative Fullstack developer</strong> with emphasis in <strong>Frontend & UI Design</strong>. Also, graduate in <strong>Software Engineering at PUC Minas</strong>.<br><br>- 🔭 I’m working as System Analyst PL at Liebherr Brasil.<br>- 📚 I'm currently improving my JavaScript knowledge (and learning React).<br>- ⚡ Always moving forward!</p>
+<p align="center">I am a <strong>Creative Fullstack developer</strong> with emphasis in <strong>Frontend & UI Design</strong>. Also, graduate in <strong>Software Engineering at PUC Minas</strong>.<br><br>- 🔭 I’m working as System Analyst PL at Liebherr Brasil.<br>- 📚 I'm currently improving my JavaScript knowledge (and learning React). Also, trying something with Python.<br>- ⚡ Always moving forward!</p>
 
 ###
 
@@ -50,6 +50,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
