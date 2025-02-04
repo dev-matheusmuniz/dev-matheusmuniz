@@ -1,4 +1,4 @@
-<img src="images/Matheus.png">
+<img src="images/matheus-muniz-linkedin-banner.png">
 <hr>
 
 <h3 align="center">👨🏻‍💻  About Me</h3>
